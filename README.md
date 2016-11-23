@@ -1,0 +1,2 @@
+# trashbot
+trash removal vessel
